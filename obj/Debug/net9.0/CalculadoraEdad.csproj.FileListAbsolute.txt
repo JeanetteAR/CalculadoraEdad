@@ -1,0 +1,14 @@
+/Users/jeanetteavilaramirez/Desktop/CSharp/CalculadoraEdad/bin/Debug/net9.0/CalculadoraEdad
+/Users/jeanetteavilaramirez/Desktop/CSharp/CalculadoraEdad/bin/Debug/net9.0/CalculadoraEdad.deps.json
+/Users/jeanetteavilaramirez/Desktop/CSharp/CalculadoraEdad/bin/Debug/net9.0/CalculadoraEdad.runtimeconfig.json
+/Users/jeanetteavilaramirez/Desktop/CSharp/CalculadoraEdad/bin/Debug/net9.0/CalculadoraEdad.dll
+/Users/jeanetteavilaramirez/Desktop/CSharp/CalculadoraEdad/bin/Debug/net9.0/CalculadoraEdad.pdb
+/Users/jeanetteavilaramirez/Desktop/CSharp/CalculadoraEdad/obj/Debug/net9.0/CalculadoraEdad.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeanetteavilaramirez/Desktop/CSharp/CalculadoraEdad/obj/Debug/net9.0/CalculadoraEdad.AssemblyInfoInputs.cache
+/Users/jeanetteavilaramirez/Desktop/CSharp/CalculadoraEdad/obj/Debug/net9.0/CalculadoraEdad.AssemblyInfo.cs
+/Users/jeanetteavilaramirez/Desktop/CSharp/CalculadoraEdad/obj/Debug/net9.0/CalculadoraEdad.csproj.CoreCompileInputs.cache
+/Users/jeanetteavilaramirez/Desktop/CSharp/CalculadoraEdad/obj/Debug/net9.0/CalculadoraEdad.dll
+/Users/jeanetteavilaramirez/Desktop/CSharp/CalculadoraEdad/obj/Debug/net9.0/refint/CalculadoraEdad.dll
+/Users/jeanetteavilaramirez/Desktop/CSharp/CalculadoraEdad/obj/Debug/net9.0/CalculadoraEdad.pdb
+/Users/jeanetteavilaramirez/Desktop/CSharp/CalculadoraEdad/obj/Debug/net9.0/CalculadoraEdad.genruntimeconfig.cache
+/Users/jeanetteavilaramirez/Desktop/CSharp/CalculadoraEdad/obj/Debug/net9.0/ref/CalculadoraEdad.dll
